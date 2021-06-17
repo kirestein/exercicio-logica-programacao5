@@ -1,0 +1,13 @@
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\bin\Debug\netcoreapp3.1\somaAlgarismo.exe
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\bin\Debug\netcoreapp3.1\somaAlgarismo.deps.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\bin\Debug\netcoreapp3.1\somaAlgarismo.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\bin\Debug\netcoreapp3.1\somaAlgarismo.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\bin\Debug\netcoreapp3.1\somaAlgarismo.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\bin\Debug\netcoreapp3.1\somaAlgarismo.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\obj\Debug\netcoreapp3.1\somaAlgarismo.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\obj\Debug\netcoreapp3.1\somaAlgarismo.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\obj\Debug\netcoreapp3.1\somaAlgarismo.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\obj\Debug\netcoreapp3.1\somaAlgarismo.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\obj\Debug\netcoreapp3.1\somaAlgarismo.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\obj\Debug\netcoreapp3.1\somaAlgarismo.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao5\somaAlgarismo\somaAlgarismo\obj\Debug\netcoreapp3.1\somaAlgarismo.genruntimeconfig.cache
